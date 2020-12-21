@@ -21,6 +21,9 @@ public abstract class DtabaseEcommerce extends RoomDatabase {
     }
     //for entitis add Entity  to class abstract
     public abstract customer_Dao customer_dao();
+    //ToDo
+
+
 
 
 
